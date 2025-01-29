@@ -1,5 +1,2 @@
 # spork
 
-* Elixir
-* Svelte
-* WebTransport

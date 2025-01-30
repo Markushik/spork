@@ -24,6 +24,7 @@
 
         shellHook = ''
           echo "h Mark!"
+          mix
         '';
       };
     });
